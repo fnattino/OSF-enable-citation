@@ -1,0 +1,20 @@
+# YAML 1.2
+---
+abstract: "Here I can provide a long description of my tool"
+authors: 
+  -
+    affiliation: "Netherlands eScience Center"
+    family-names: Nattino
+    given-names: Francesco
+    orcid: "https://orcid.org/0000-0003-3286-0139"
+cff-version: "1.1.0"
+date-released: 2020-02-11
+keywords: 
+  - "Open Science"
+  - Citation
+license: "Apache-2.0"
+message: "If you use this software, please cite it using these metadata."
+repository-code: "https://github.com/fnattino/OSF-enable-citation"
+title: "My OSF research software"
+version: "0.1.0"
+...
